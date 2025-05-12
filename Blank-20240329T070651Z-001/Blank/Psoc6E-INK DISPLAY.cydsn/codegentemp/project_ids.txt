@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\WorkspaceLab10.cydsn\CE212736_PSoC6BLE_FindMe01.cydsn\CE212736_PSoC6BLE_FindMe01.cyprj|6873652a-94dc-4861-870e-c328d8103d83
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|ecc646bb-a36e-4303-9228-424e78dff176
+C:\Users\PC\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|c95c98e7-856d-4d0d-bf7c-74cb05bc69ef
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|bf3f2008-cc73-4fed-821c-adf383fce712
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|c9d22c9e-3fc2-4928-8d6c-dd2ac77cf2a3
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|a08a6391-9c3e-4991-9106-5e6fc4486b5e
+C:\Users\PC\Desktop\WorkspaceLab10.cydsn\Blank-20240329T070651Z-001\Blank\Psoc6E-INK DISPLAY.cydsn\Psoc6E-INK DISPLAY.cyprj|572a3dcf-290f-4ec5-a653-bb17fb0c5c30
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|cc342439-dee5-4e38-a2fc-68089e7ccc5e
